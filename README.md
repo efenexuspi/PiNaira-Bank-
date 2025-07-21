@@ -5,7 +5,7 @@ Welcome to **PiNaira Bank**, an innovative open-source solution for modern digit
 ![PiNaira Bank Logo](https://pbs.twimg.com/profile_images/1942669204802445312/OzhSVc9z.jpg)
 
 ## Table of Contents
-- [Nigeria’s 1st Pi-powered bank. Save, borrow, trade π at $314,159. @efenexuspi-backed with wallet, marketplace, forum, Pi ATM card. KYC-compliant.](#about-the-project)
+- [About the Project](#about-the-project)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
