@@ -2,7 +2,7 @@
 
 Welcome to **PiNaira Bank**, an innovative open-source solution for modern digital banking and financial transaction management. Our mission is to provide a secure, scalable, and user-friendly platform to streamline banking operations, empower users with seamless payment experiences, and foster financial inclusion across Nigeria and beyond.
 
-![PiNaira Bank Logo](https://pbs.twimg.com/profile_images/1942669204802445312/OzhSVc9z.jpg)
+![PiNaira Bank Logo](https://pbs.twimg.com/profile_images/1948113813976346625/zudoULlj.jpg)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
